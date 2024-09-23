@@ -1,0 +1,14 @@
+Realizar una escena 3D básica utilizando exclusivamente el editor de escenas. La escena debe configurarse de la siguiente manera:
+    Incluir objetos 3D básicos
+    Incluir  en el proyecto el paquete Starter Assets.
+    Incluir un objeto libre de la Asset Store que no sea de los Starter Assets.
+    Crear un terreno (opcional).
+    Cada objeto debe tener una etiqueta que lo identifique.
+    Utilizar prefabs de Starter Asset FPS o Third Person
+    Agregar un script que escriba en la consola los objetos que se han utilizado.
+
+La entrega de incluir:
+    Enlace a repositorio github con el código del script y un markdown con gif animado de la ejecución. Además de una breve descripción del trabajo.
+    Fichero comprimido con lo que se haya subido a github.
+
+Todos los alumnos deben subir su entrega. La fecha límite de la entrega corresponde al día de prácticas del grupo que se te ha asignado en la semana del 11 al 15 de octubre.

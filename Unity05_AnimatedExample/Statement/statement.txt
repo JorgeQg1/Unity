@@ -1,0 +1,12 @@
+Desarrollar una escena 3D que cumpla con los siguientes requsitos:
+
+1. Crear una escena que incluya un mostruo, cofres, arañas y huevos de los paquetes enlazados.  
+2. Crear un script para teletransportar al monstruo a cada vez que se pulse la tecla T
+3. Crear un script que aumente las dimensiones de los huevos de las arañas cada vez que el monster colisione con el cofre. El cofre debe ser desplazado con física. 
+4. Crear un script que al pasar a una distancia menor que una dada de las arañas, reste vida al monstruo.
+5. Configurar el proyecto para funcionar con CardBoard. 
+6. Implementar una mecánica en la que el jugador al fijar la mirada sobre uno de los cofres, las arañas de color rojo se roten y las verdes salten.
+
+Se debe subir a Github los scripts y capturas de la ejecución, en la entrega se incorpora el enlace al repositorio y un zip del mismo.
+
+Los ejercicios 1-4 son obligatorios para tener apta la práctica y valdrán hasta 7 puntos. El ejercicio 5 valdrá hasta 1 punto y el 6 valdrá 2 puntos.
