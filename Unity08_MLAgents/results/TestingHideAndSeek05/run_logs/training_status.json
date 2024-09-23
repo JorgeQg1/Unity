@@ -1,0 +1,71 @@
+{
+    "Chaser": {
+        "checkpoints": [
+            {
+                "steps": 299986,
+                "file_path": "results\\TestingHideAndSeek05\\Chaser\\Chaser-299986.onnx",
+                "reward": 1.211471965001977,
+                "creation_time": 1719870878.7146099,
+                "auxillary_file_paths": [
+                    "results\\TestingHideAndSeek05\\Chaser\\Chaser-299986.pt"
+                ]
+            },
+            {
+                "steps": 450061,
+                "file_path": "results\\TestingHideAndSeek05\\Chaser\\Chaser-450061.onnx",
+                "reward": 1.6818318818248599,
+                "creation_time": 1719871518.1574569,
+                "auxillary_file_paths": [
+                    "results\\TestingHideAndSeek05\\Chaser\\Chaser-450061.pt"
+                ]
+            }
+        ],
+        "elo": 1567.8102564767719,
+        "final_checkpoint": {
+            "steps": 450061,
+            "file_path": "results\\TestingHideAndSeek05\\Chaser.onnx",
+            "reward": 1.6818318818248599,
+            "creation_time": 1719871518.1574569,
+            "auxillary_file_paths": [
+                "results\\TestingHideAndSeek05\\Chaser\\Chaser-450061.pt"
+            ]
+        }
+    },
+    "Runner": {
+        "checkpoints": [
+            {
+                "steps": 299985,
+                "file_path": "results\\TestingHideAndSeek05\\Runner\\Runner-299985.onnx",
+                "reward": 22.45388624601894,
+                "creation_time": 1719871176.1397183,
+                "auxillary_file_paths": [
+                    "results\\TestingHideAndSeek05\\Runner\\Runner-299985.pt"
+                ]
+            },
+            {
+                "steps": 319448,
+                "file_path": "results\\TestingHideAndSeek05\\Runner\\Runner-319448.onnx",
+                "reward": -0.5400708051664489,
+                "creation_time": 1719871518.293403,
+                "auxillary_file_paths": [
+                    "results\\TestingHideAndSeek05\\Runner\\Runner-319448.pt"
+                ]
+            }
+        ],
+        "elo": 959.8099254073645,
+        "final_checkpoint": {
+            "steps": 319448,
+            "file_path": "results\\TestingHideAndSeek05\\Runner.onnx",
+            "reward": -0.5400708051664489,
+            "creation_time": 1719871518.293403,
+            "auxillary_file_paths": [
+                "results\\TestingHideAndSeek05\\Runner\\Runner-319448.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.3.1+cu121"
+    }
+}

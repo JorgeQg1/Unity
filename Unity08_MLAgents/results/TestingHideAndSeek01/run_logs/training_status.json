@@ -1,0 +1,107 @@
+{
+    "Runner": {
+        "checkpoints": [
+            {
+                "steps": 499943,
+                "file_path": "results\\TestingHideAndSeek01\\Runner\\Runner-499943.onnx",
+                "reward": 2.2366001129150392,
+                "creation_time": 1719834399.1303658,
+                "auxillary_file_paths": [
+                    "results\\TestingHideAndSeek01\\Runner\\Runner-499943.pt"
+                ]
+            },
+            {
+                "steps": 999986,
+                "file_path": "results\\TestingHideAndSeek01\\Runner\\Runner-999986.onnx",
+                "reward": -0.5694133825808264,
+                "creation_time": 1719835655.1811793,
+                "auxillary_file_paths": [
+                    "results\\TestingHideAndSeek01\\Runner\\Runner-999986.pt"
+                ]
+            },
+            {
+                "steps": 1499950,
+                "file_path": "results\\TestingHideAndSeek01\\Runner\\Runner-1499950.onnx",
+                "reward": -0.6020908904346552,
+                "creation_time": 1719836678.4832659,
+                "auxillary_file_paths": [
+                    "results\\TestingHideAndSeek01\\Runner\\Runner-1499950.pt"
+                ]
+            },
+            {
+                "steps": 1999985,
+                "file_path": "results\\TestingHideAndSeek01\\Runner\\Runner-1999985.onnx",
+                "reward": -0.30046246871352195,
+                "creation_time": 1719838007.7556767,
+                "auxillary_file_paths": [
+                    "results\\TestingHideAndSeek01\\Runner\\Runner-1999985.pt"
+                ]
+            },
+            {
+                "steps": 2234704,
+                "file_path": "results\\TestingHideAndSeek01\\Runner\\Runner-2234704.onnx",
+                "reward": -0.6755503196044256,
+                "creation_time": 1719838634.3790433,
+                "auxillary_file_paths": [
+                    "results\\TestingHideAndSeek01\\Runner\\Runner-2234704.pt"
+                ]
+            }
+        ],
+        "elo": 929.0543421111774,
+        "final_checkpoint": {
+            "steps": 2234704,
+            "file_path": "results\\TestingHideAndSeek01\\Runner.onnx",
+            "reward": -0.6755503196044256,
+            "creation_time": 1719838634.3790433,
+            "auxillary_file_paths": [
+                "results\\TestingHideAndSeek01\\Runner\\Runner-2234704.pt"
+            ]
+        }
+    },
+    "Chaser": {
+        "checkpoints": [
+            {
+                "steps": 499940,
+                "file_path": "results\\TestingHideAndSeek01\\Chaser\\Chaser-499940.onnx",
+                "reward": 0.6641214796315844,
+                "creation_time": 1719835366.4327695,
+                "auxillary_file_paths": [
+                    "results\\TestingHideAndSeek01\\Chaser\\Chaser-499940.pt"
+                ]
+            },
+            {
+                "steps": 999996,
+                "file_path": "results\\TestingHideAndSeek01\\Chaser\\Chaser-999996.onnx",
+                "reward": 0.8104876776046941,
+                "creation_time": 1719836976.507227,
+                "auxillary_file_paths": [
+                    "results\\TestingHideAndSeek01\\Chaser\\Chaser-999996.pt"
+                ]
+            },
+            {
+                "steps": 1400153,
+                "file_path": "results\\TestingHideAndSeek01\\Chaser\\Chaser-1400153.onnx",
+                "reward": 0.7376105123444607,
+                "creation_time": 1719838634.5332723,
+                "auxillary_file_paths": [
+                    "results\\TestingHideAndSeek01\\Chaser\\Chaser-1400153.pt"
+                ]
+            }
+        ],
+        "elo": 1802.1624064891678,
+        "final_checkpoint": {
+            "steps": 1400153,
+            "file_path": "results\\TestingHideAndSeek01\\Chaser.onnx",
+            "reward": 0.7376105123444607,
+            "creation_time": 1719838634.5332723,
+            "auxillary_file_paths": [
+                "results\\TestingHideAndSeek01\\Chaser\\Chaser-1400153.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.3.1+cu121"
+    }
+}

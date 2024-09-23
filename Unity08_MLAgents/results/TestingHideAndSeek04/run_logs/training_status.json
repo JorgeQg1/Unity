@@ -1,0 +1,98 @@
+{
+    "Runner": {
+        "checkpoints": [
+            {
+                "steps": 299945,
+                "file_path": "results\\TestingHideAndSeek04\\Runner\\Runner-299945.onnx",
+                "reward": 14.124583550370657,
+                "creation_time": 1719866948.3117976,
+                "auxillary_file_paths": [
+                    "results\\TestingHideAndSeek04\\Runner\\Runner-299945.pt"
+                ]
+            },
+            {
+                "steps": 599966,
+                "file_path": "results\\TestingHideAndSeek04\\Runner\\Runner-599966.onnx",
+                "reward": -1.7431696951389313,
+                "creation_time": 1719867861.196972,
+                "auxillary_file_paths": [
+                    "results\\TestingHideAndSeek04\\Runner\\Runner-599966.pt"
+                ]
+            },
+            {
+                "steps": 899983,
+                "file_path": "results\\TestingHideAndSeek04\\Runner\\Runner-899983.onnx",
+                "reward": -6.065713568784223,
+                "creation_time": 1719868820.8747804,
+                "auxillary_file_paths": [
+                    "results\\TestingHideAndSeek04\\Runner\\Runner-899983.pt"
+                ]
+            },
+            {
+                "steps": 1050190,
+                "file_path": "results\\TestingHideAndSeek04\\Runner\\Runner-1050190.onnx",
+                "reward": -9.012384629767874,
+                "creation_time": 1719869446.432423,
+                "auxillary_file_paths": [
+                    "results\\TestingHideAndSeek04\\Runner\\Runner-1050190.pt"
+                ]
+            }
+        ],
+        "elo": 918.2461100620231,
+        "final_checkpoint": {
+            "steps": 1050190,
+            "file_path": "results\\TestingHideAndSeek04\\Runner.onnx",
+            "reward": -9.012384629767874,
+            "creation_time": 1719869446.432423,
+            "auxillary_file_paths": [
+                "results\\TestingHideAndSeek04\\Runner\\Runner-1050190.pt"
+            ]
+        }
+    },
+    "Chaser": {
+        "checkpoints": [
+            {
+                "steps": 299988,
+                "file_path": "results\\TestingHideAndSeek04\\Chaser\\Chaser-299988.onnx",
+                "reward": 0.254311898847421,
+                "creation_time": 1719867573.5449717,
+                "auxillary_file_paths": [
+                    "results\\TestingHideAndSeek04\\Chaser\\Chaser-299988.pt"
+                ]
+            },
+            {
+                "steps": 599994,
+                "file_path": "results\\TestingHideAndSeek04\\Chaser\\Chaser-599994.onnx",
+                "reward": 1.7754724113714127,
+                "creation_time": 1719869020.3097954,
+                "auxillary_file_paths": [
+                    "results\\TestingHideAndSeek04\\Chaser\\Chaser-599994.pt"
+                ]
+            },
+            {
+                "steps": 664109,
+                "file_path": "results\\TestingHideAndSeek04\\Chaser\\Chaser-664109.onnx",
+                "reward": 1.7582479461546867,
+                "creation_time": 1719869446.5479295,
+                "auxillary_file_paths": [
+                    "results\\TestingHideAndSeek04\\Chaser\\Chaser-664109.pt"
+                ]
+            }
+        ],
+        "elo": 1691.6251510444536,
+        "final_checkpoint": {
+            "steps": 664109,
+            "file_path": "results\\TestingHideAndSeek04\\Chaser.onnx",
+            "reward": 1.7582479461546867,
+            "creation_time": 1719869446.5479295,
+            "auxillary_file_paths": [
+                "results\\TestingHideAndSeek04\\Chaser\\Chaser-664109.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.3.1+cu121"
+    }
+}
